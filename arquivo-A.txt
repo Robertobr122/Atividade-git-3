@@ -1,6 +1,3 @@
-PAGINA A 
-modificação 1 em a 
-
 ########################
 
 cadastro 1:
@@ -8,5 +5,13 @@ cadastro 1:
 id: 1
 aluno: Aluno1
 senha: 123
+
+########################
+
+cadastro 2:
+
+id: 2
+aluno: Roberto
+senha: 111
 
 ########################
