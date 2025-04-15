@@ -15,3 +15,11 @@ aluno: Roberto
 senha: 111
 
 ########################
+
+cadastro 3:
+
+id: 3
+aluno: Braga
+senha: 122
+
+########################
