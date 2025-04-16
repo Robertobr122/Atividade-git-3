@@ -31,3 +31,27 @@ aluno: Oliveira Filho
 senha: 224456
 
 ########################
+
+cadastro 5:
+
+id: 5
+aluno: Filipe
+senha: 987
+
+########################
+
+cadastro 6:
+
+id: 6
+aluno: Rogerio
+senha: 999
+
+########################
+
+cadastro 7:
+
+id: 7
+aluno: Carlos
+senha: 6789
+
+########################
